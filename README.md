@@ -29,11 +29,10 @@ To run the project, you need the following dependencies:
 ## Usage
 
 1. Clone the repository:
-   git clone https://github.com/your-username/cab-fare-prediction.git
+   git clone https://github.com/FebaRoy/cab-fare-prediction.git
    
 2. Install the required dependencies:
    pip install -r requirements.txt
-
 
 3. Place the dataset files (`cab_rides.csv` and `weather.csv`) in the `data/` directory. Remember to unzip the `cab_rides.csv` and use. (It is compressed to a zip due to its size.)
 
