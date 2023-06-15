@@ -35,7 +35,7 @@ To run the project, you need the following dependencies:
    pip install -r requirements.txt
 
 
-3. Place the dataset files (`cab_rides.csv` and `weather.csv`) in the `data/` directory.
+3. Place the dataset files (`cab_rides.csv` and `weather.csv`) in the `data/` directory. Remember to unzip the 'cab_rides.csv' and use. (It is compressed to a zip due to its size.)
 
 4. Open the Jupyter notebooks in the `notebooks/` directory and run them sequentially.
 
